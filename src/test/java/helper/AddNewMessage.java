@@ -1,4 +1,4 @@
-package apitest;
+package helper;
 
 import io.restassured.http.ContentType;
 

@@ -1,6 +1,8 @@
 package apitest;
 
+import helper.AddNewMessage;
 import helper.HelperClass;
+import helper.ReadMessagesFromStreamApi;
 import io.restassured.http.ContentType;
 import org.testng.annotations.Test;
 import java.util.logging.Logger;
